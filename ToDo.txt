@@ -1,0 +1,20 @@
+✅ Complete at 100, Offer logs - COMPLETED
+
+✅ Logs include: - COMPLETED
+✅ time per pushup 'lap' average each Complete round - COMPLETED
+✅ Average overall and other stats at end - COMPLETED
+
+COMPLETED FEATURES:
+- Celebration dialog when workout is finished (100 pull-ups)
+- Round-by-round timing and statistics
+- Average lap times displayed in logs
+- Final completion statistics including:
+  * Total workout time
+  * Number of rounds completed  
+  * Average round time
+  * Fastest and slowest round times
+  * Total reps breakdown (pull-ups, push-ups, squats)
+- Enhanced log display with completion stats at top
+- Button changes to green "View Logs" when completed
+
+https://docs.flutter.dev/get-started/install/windows/mobile
