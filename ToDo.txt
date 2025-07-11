@@ -18,3 +18,34 @@ COMPLETED FEATURES:
 - Button changes to green "View Logs" when completed
 
 https://docs.flutter.dev/get-started/install/windows/mobile
+
+
+
+
+The app is installed on your phone and will not disappear when you unplug the USB cable.
+
+However, it's installed as a debug version. This means:
+
+It will have a "Debug" banner.
+It might run a bit slower than a final version.
+It's not optimized for release.
+How to Create a Permanent, Shareable Version (Release APK)
+To create a final, optimized version that you can share or keep on your phone permanently, you need to build a release APK.
+
+Here's how you can do it:
+
+Open the terminal in VS Code (or any command prompt in your project folder).
+Run the following command:
+flutter build apk --release
+This will create a high-performance, optimized APK file.
+
+Where to Find the APK
+After the build is complete, you'll find the APK file in this directory: build\app\outputs\flutter-apk\app-release.apk
+
+You can then take this app-release.apk file, transfer it to your phone (or anyone else's), and install it like any other Android app.
+
+.
+
+Add 1km runs before and after
+Allow to time or add time manually
+Save results to csv or similar
